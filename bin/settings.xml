@@ -1,0 +1,7 @@
+<interval>5.000000000</interval>
+<camWidth>1024</camWidth>
+<camHeight>768</camHeight>
+<flipVertical>1</flipVertical>
+<flipHorizontal>1</flipHorizontal>
+<cameraID>6</cameraID>
+<appFrameRate>15</appFrameRate>
